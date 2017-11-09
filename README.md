@@ -11,6 +11,8 @@ View the [design specs](https://github.com/wingworks/Ventus-11/blob/master/Ventu
 
 ![Kite 3D preview](https://github.com/wingworks/Ventus-11/blob/master/Ventus-11_right.png)
 
+![Kite 3D preview](https://github.com/wingworks/Ventus-11/blob/master/ventus_side.png)
+
 ## Changes
 ### Version 1.0
 
